@@ -1,0 +1,55 @@
+{
+  "title":"Você seria um vampiro ou lobisomem?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Sua vibe noturna é mais:",
+      "options":[
+        {"id": 1, "name":"Uma noite fria, vinho tinto e livros antigos à luz de velas", "alias":"A"},
+        {"id": 2, "name":"Uma caminhada sob a lua cheia, ouvindo os sons da floresta", "alias":"B"},
+        {"id": 3, "name":"Uma festa cheia de gente, música alta e caos controlado", "alias":"B"},
+        {"id": 4, "name":"Um lugar silencioso, observando tudo de longe, com olhos atentos", "alias":"A"},
+        {"id": 5, "name":"Meditação, introspecção e contemplação das estrelas", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Como você lida com a sua intuição?",
+      "options":[
+        {"id": 1, "name":"Tento controlá-la, não quero que minha intuição me domine", "alias":"A"},
+        {"id": 2, "name":"Uso a meu favor, é parte do que me torna forte", "alias":"B"},
+        {"id": 3, "name":"Às vezes perco o controle, mas não me arrependo", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Seu look favorito seria:",
+      "options":[
+        {"id": 1, "name":"Roupas escuras e elegantes, estilo gótico-chique", "alias":"A"},
+        {"id": 2, "name":"Uma jaqueta de couro surrada e botas resistentes", "alias":"B"},
+        {"id": 3, "name":"Algo prático e leve, pronto pra correr ou lutar", "alias":"B"},
+        {"id": 4, "name":"Um visual alternativo, com acessórios que carregam histórias", "alias":"A"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Em um conflito, você costuma:",
+      "options":[
+        {"id": 1, "name":"Manter a calma e manipular a situação a seu favor", "alias":"A"},
+        {"id": 2, "name":"Resolver o conflito na força", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Onde você se sente mais em casa?",
+      "options":[
+        {"id": 1, "name":" Em uma biblioteca antiga, cercado de silêncio e história", "alias":"A"},
+        {"id": 2, "name":"No meio da natureza, com o vento no rosto e os pés na terra", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Vampiro! Você é estratégico, introspectivo e domina com charme e inteligência. Prefere agir nas sombras e valoriza o tempo, o silêncio e o controle.",
+    "B": "Lobisomem! Você vive com intensidade, se entrega aos seus impulsos e defende quem ama com garra. A liberdade e a verdade instintiva são sua força."
+  }
+}
